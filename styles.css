@@ -147,6 +147,11 @@ ul {
     font-weight: 700;
 }
 
+.cta {
+    display: flex;
+    justify-content: center;
+}
+
 .cta .container {
     display: flex;
     justify-content: space-between;
